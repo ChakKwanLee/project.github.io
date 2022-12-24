@@ -6,6 +6,7 @@ In this module I have learned few knowledge, first one is Risk Management Proces
 2. Risk Assessment
 3. Risk Management Approach
 4. Risk Management Effect Evaluation
+
 In seminars discussion I also understand the OWASP cookbook and the Mitre ATT&CK database.
 The focus of MITER ATT&CK is on Phases and Activities. So, in MITER ATT&CK, TTP is his focus. TTP are Tactic, Technique and Procedure respectively. When attackers have a strategic goal, such as data theft or the establishment of reward mechanisms and backdoors in your network, they will use many different tactics at different stages to attack you. There will be some technical activities and techniques in each stage, and each technical activity will have its own certain procedures and steps. Therefore, before the attackers achieve their goals, they will routinely carry out these combined attacks in order to achieve their goals.
 
