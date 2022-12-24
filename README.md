@@ -12,6 +12,8 @@ The focus of MITER ATT&CK is on Phases and Activities. So, in MITER ATT&CK, TTP 
 
 In the framework matrix of MITER ATT&CK, the tactics are the headings of each column, the techniques are the lists within the headings, and the final procedure is the detailed description and operation method of the technique, as shown in the figure below:
  
+ ![github](https://user-images.githubusercontent.com/119662273/209424835-a69e2789-53e7-47d8-88d6-fde38be70753.jpg)
+
 
 e-Portfolio Activity – GDPR Case Studies
 I picked the 2018 Case Study 1: Prosecution of Guerin Media Limited
